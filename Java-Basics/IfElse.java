@@ -67,5 +67,6 @@ public class IfElse{
 			else {
 				System.out.println("Read the instruction please...");
 			}
+			read.close();
 	}
 }
