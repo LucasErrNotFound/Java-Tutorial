@@ -10,7 +10,7 @@ public class Switch{
 		System.out.print("-----> ");
 			int number = read.nextInt();
 
-			switch(number){
+			switch(number){	// Switch is just an alternate version of if statements
 
 				case 1: System.out.println("Jana is beautiful");
 						break;
