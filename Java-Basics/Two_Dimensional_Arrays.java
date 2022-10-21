@@ -30,8 +30,8 @@ public class Two_Dimensional_Arrays{
 		System.out.println("\n");
 
 		String[][] names = {{"Dodong", "Jav", "Rico"},
-					{"Jawili", "Nash", "Graham"},
-					{"Kobe", "Joey", "Joey Jr."}
+				{"Jawili", "Nash", "Graham"},
+				{"Kobe", "Joey", "Joey Jr."}
 		};
 		
 		for(int k = 0; k < names.length; k++){
