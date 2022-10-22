@@ -12,10 +12,10 @@ public class Switch{
 
 			switch(number){	// Switch is just an alternate version of if statements
 
-				case 1: System.out.println("Jana is beautiful");
+				case 1: System.out.println("Someone can be your happy pill");
 						break;
 
-				case 2: System.out.println("Johannah is always talkative");
+				case 2: System.out.println("Someone is always talkative in our class");
 						break;
 
 				case 3: System.out.println("Father Norvic and Mother Em are having a baby soon");
@@ -39,7 +39,7 @@ public class Switch{
 				case 9: System.out.println("My favorite biscuit is Oreo vanilla");
 						break;
 
-				case 10: System.out.println("Someone is secretly admiring Jana right now");
+				case 10: System.out.println("Someone is secretly admiring J... right now");
 						 break;
 
 				case 11: System.out.println("It's okay to have a crush on someone");
