@@ -33,7 +33,7 @@ public class IfElse{
 			}
 
 			else if (num == 3){
-				System.out.println("Someone is having a crush on B...n");
+				System.out.println("Someone is having a crush on B....");
 			}
 
 			else if (num == 4){
