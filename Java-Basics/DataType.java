@@ -19,7 +19,7 @@ public class DataType{
 		boolean truth = true;		// 1 bit, value could be true or false
 
 		char letter = 'A';		      // 2 bytes, can only have single character or symbols
-		String word = "Mark D.Cruz have a crush"; // Size varies, group of characters
+		String word = "M D.C have a crush"; // Size varies, group of characters
 
 		long z = 12345678910L;		//  8 bytes, a bunch of numbers
 	}
