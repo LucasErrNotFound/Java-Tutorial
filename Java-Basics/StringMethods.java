@@ -20,14 +20,14 @@ public class StringMethods{
 		// System.out.println(result);		// It will print out "2"
 		
 		// String result = name.toUpperCase();	// Change all characters to uppercase
-		// System.out.println(result);			// Print out "LUCAS" 
+		// System.out.println(result);		// Print out "LUCAS" 
 
 		// String result = name.toLowerCase();	// Change all characters to lowercase
-		// System.out.println(result);			// Print out "lucas"
+		// System.out.println(result);		// Print out "lucas"
 
 		// String result = name.trim();	// Trim unnecessary whitespaces
 
 		// String result = name.replace('c', 'k');	// Replaces 'c' with 'k' 
-		// System.out.println(result);				// Print out "Lukas"
+		// System.out.println(result);			// Print out "Lukas"
 	}
 }
